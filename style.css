@@ -31,3 +31,21 @@
     width: 300px;
     margin: 50px;
 }
+
+button {
+    width: 150px;
+    height: 30px;
+    margin: 20px;
+
+}
+
+.main-header-menu-item {
+    display: inline-block;
+    margin-right: 40px;
+
+}
+.section-container {
+    width: 1200px;
+    padding: 0px 15px;
+    background: yellowgreen;
+}
