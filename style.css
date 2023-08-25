@@ -1,6 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
 .box {
     background-color: yellow;
-    padding: 50px;
-    border: 1px solid red;
+    box-sizing: content-box;
+    width: 500px;
+    height: 200px;
+    margin: 50px 20px 100px ;
+    padding: 20px;
+
+   border: 1px solid red
+
+    /* border-width: 1px;
+    border-style: solid;
+    border-color: red; */
+
+    /* border-top: 1px solid red; */
+    /*border-bottom: 1px dashed green; */
+
+    /*border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: red; */
+
+    /*border-radius: 20px; */
+}
+
+.box-content {
+    background-color: lime;
+    width: 300px;
     margin: 50px;
 }
