@@ -1,0 +1,11 @@
+.container {
+    background color: yellow;
+    list-style: none;
+    padding: 10px;
+    display: inline-flex;
+}
+
+.container-item {
+    background color: green;
+    padding: 5px;
+}
